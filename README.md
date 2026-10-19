@@ -35,7 +35,7 @@ O programa simula a leitura de um sensor de nível de água que varia de **1 a 5
 
 2. **Execute o programa:**
    ```bash
-   python demonstacao.py
+   python Nunes_Ag11_DS_I.py
    ```
 
 ---
